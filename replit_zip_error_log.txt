@@ -1,0 +1,10 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/cross-env","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/cross-env-shell","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node-which","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodemon","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodetouch","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nopt","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pino","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pino-pretty","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2023-02-13T23:29:43Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/simple-update-notifier/node_modules/.bin/semver","time":"2023-02-13T23:29:46Z"}
